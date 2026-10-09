@@ -1,0 +1,6 @@
+{
+  "name": "Luminous Radar",
+  "description": "Tactile skeuomorphic research and news radar for exploring daily tech findings, automated learning coverage, and weekly AI executive summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
